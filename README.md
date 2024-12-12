@@ -127,3 +127,6 @@ git push origin --delete 子分支名
 
 7.工作完成后，点击该issue，将状态改为Done，对应的Issue会自动关闭。
 
+### 软件栈结构
+
+![git软件栈](https://github.com/user-attachments/assets/644578a5-d30e-456b-b9cf-bfdd3add8d72)
